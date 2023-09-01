@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home1"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24">
+    </item>
+
+    <item
+        android:id="@+id/student"
+        android:title="Student"
+        android:icon="@drawable/baseline_person_24">
+    </item>
+
+    <item
+        android:id="@+id/staff"
+        android:title="Faculty"
+        android:icon="@drawable/baseline_wc_24">
+    </item>
+
+    <item
+        android:id="@+id/driver"
+        android:title="Driver"
+        android:icon="@drawable/baseline_man_24">
+    </item>
+
+</menu>

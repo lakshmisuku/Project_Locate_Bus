@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187869447841",
+    "firebase_url": "https://locate-my-bus-5e265-default-rtdb.firebaseio.com",
+    "project_id": "locate-my-bus-5e265",
+    "storage_bucket": "locate-my-bus-5e265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187869447841:android:72a7b4745b4039a825d2e0",
+        "android_client_info": {
+          "package_name": "com.example.project_locate_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187869447841-fqfoadno4939nkfe65n5ht4i1mj149q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO9Z7zXbTL_3NPWYdQl5Ii0KCJXwiKr4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187869447841-fqfoadno4939nkfe65n5ht4i1mj149q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

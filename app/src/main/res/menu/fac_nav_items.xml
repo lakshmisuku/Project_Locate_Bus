@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Student Paid Details"
+            android:id="@+id/nav_stu_detail"
+            android:icon="@drawable/baseline_list_24">
+        </item>
+
+        <item
+            android:title="Logout"
+            android:id="@+id/fac_log_out"
+            android:icon="@drawable/baseline_logout_24">
+        </item>
+    </group>
+</menu>
